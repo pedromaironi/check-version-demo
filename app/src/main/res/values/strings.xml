@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Check-version</string>
+    <string name="channel_name">Download App</string>
+    <string name="channel_description">Download Complete</string>
+</resources>
